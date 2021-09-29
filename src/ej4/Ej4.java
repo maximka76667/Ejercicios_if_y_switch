@@ -16,8 +16,8 @@ public class Ej4 {
 		System.out.println(a);
 		System.out.println(
 				a >= numero_de_comparacion_1 && a <= numero_de_comparacion_2 ? 
-						"Esta entre " + numero_de_comparacion_1 + " y " + numero_de_comparacion_2 : 
-						"No esta entre " + numero_de_comparacion_1 + " y " + numero_de_comparacion_2
+						"Entre " + numero_de_comparacion_1 + " y " + numero_de_comparacion_2 : 
+						"No entre " + numero_de_comparacion_1 + " y " + numero_de_comparacion_2
 				);
 
 		entrada.close();
