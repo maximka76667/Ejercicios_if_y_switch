@@ -7,7 +7,7 @@ public class Ej9 {
 	public static void main(String[] args) {
 		Scanner entrada = new Scanner(System.in);
 
-		System.out.println("Tu medio de transporte: bicicleta, moto, coche, camion (b, m, a, c): ");
+		System.out.println("Tu medio de transporte: bicicleta, moto, coche, camion (b, m, h, c): ");
 		char transporte = entrada.nextLine().charAt(0);
 
 		double impuesto = 1;
